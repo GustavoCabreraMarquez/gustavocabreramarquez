@@ -3,7 +3,6 @@
 - 🔭 Pretendo trabalhar com desenvolvimento front-end.
 - 🌱 Aprendendo sobre o uso de bibliotecas e frameworks...
 - 👯 Ansioso pela primeira oportunidade profissional na area.
-- 😄 Pronouns: ele/dele.
 
 <div align="center">
   <a href="https://github.com/gustavocabreramarquez">
