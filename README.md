@@ -1,8 +1,7 @@
-## Oi! Tudo bem? Me chamo Gustavo Cabrera, muito prazer!
+## Hi! How are you? I go by Gustavo Cabrera, pleasure to meet you!
 
-- 🔭 Pretendo trabalhar com desenvolvimento front-end.
-- 🌱 Aprendendo sobre o uso de bibliotecas e frameworks...
-- 👯 Ansioso pela primeira oportunidade profissional na area.
+- 🔭 I currently work as a DevOps Enginer.
+- 🌱 Love to mess around in the cloud, use IAC and automation tools to make the daily tasks faster and more exciting
 
 <div align="center">
   <a href="https://github.com/gustavocabreramarquez">
