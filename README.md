@@ -1,7 +1,7 @@
 ## Hi! How are you? I go by Gustavo Cabrera, pleasure to meet you!
 
 - 🔭 I currently work as a DevOps Enginer.
-- 🌱 Love to mess around in the cloud, use IAC and automation tools to make the daily tasks faster and more exciting
+- 🌱 Love to use cloud, IAC and automation tools to make the daily tasks faster and more exciting
 
 <div align="center">
   <a href="https://github.com/gustavocabreramarquez">
