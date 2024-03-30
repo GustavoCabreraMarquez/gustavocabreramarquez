@@ -1,7 +1,7 @@
-## Hi! How are you? I go by Gustavo Cabrera, pleasure to meet you!
+## Hi! How are you? I'm Gustavo Marquez, pleasure to meet you!
 
 - 🔭 I currently work as a DevOps Enginer.
-- 🌱 Love to use cloud, IAC and automation tools to make the daily tasks faster and more exciting
+- 🌱 I take great pleasure in studying programming to enhance my cloud/DevOps skills and make borings taks faster
 
 <div align="center">
   <a href="https://github.com/gustavocabreramarquez">
