@@ -1,7 +1,7 @@
 ## Hi! How are you? I'm Gustavo Marquez, pleasure to meet you!
 
 - 🔭 I currently work as a DevOps Enginer.
-- 🌱 I take great pleasure in studying programming to enhance my cloud/DevOps skills and make borings taks faster
+- 🌱 I take great pleasure in studying programming to enhance my cloud/DevOps skills and make borings tasks faster
 
 <div align="center">
   <a href="https://github.com/gustavocabreramarquez">
